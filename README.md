@@ -62,7 +62,7 @@ Through this project, I was able to:
 
 - ![SQL Server](https://img.icons8.com/color/30/microsoft-sql-server.png) **Microsoft SQL Server Management Studio (SSMS 20)**
 - ![SQL](https://img.icons8.com/ios-filled/25/000000/sql.png) **SQL Language** (Joins, Aggregates, Views, Filtering, Grouping, Window Functions, Date Functions)
-- ![Excel](https://img.icons8.com/color/30/microsoft-excel-2019--v1.png) **Microsoft Excel** (Data Source - Imported for Analysis)
+- ![Excel](https://img.icons8.com/color/30/microsoft-excel-2019--v1.png) **Microsoft Excel** (Data Source, Data cleaning)
 - ![Database](https://img.icons8.com/external-flat-juicy-fish/30/external-database-coding-and-development-flat-flat-juicy-fish.png) **Normalized Relational Database Schema**
 
 ---
