@@ -58,12 +58,28 @@ Through this project, I was able to:
 
 ---
 
-## 🛠 4. Tools & Technologies Used
+### 🛠 Tools Used
 
-- ![SQL Server](https://img.icons8.com/color/30/microsoft-sql-server.png) **Microsoft SQL Server Management Studio (SSMS 20)**
-- ![SQL](https://img.icons8.com/ios-filled/25/000000/sql.png) **SQL Language** (Joins, Aggregates, Views, Filtering, Grouping, Window Functions, Date Functions)
-- ![Excel](https://img.icons8.com/color/30/microsoft-excel-2019--v1.png) **Microsoft Excel** (Data Source, Data cleaning)
-- ![Database](https://img.icons8.com/external-flat-juicy-fish/30/external-database-coding-and-development-flat-flat-juicy-fish.png) **Normalized Relational Database Schema**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/><br/>
+      SQL Server (SSMS 20)
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/48/sql.png" alt="SQL"/><br/>
+      SQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/><br/>
+      Excel
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-database-coding-and-development-flat-flat-juicy-fish.png" alt="Relational Schema"/><br/>
+      Relational Schema
+    </td>
+  </tr>
+</table>
 
 ---
 
